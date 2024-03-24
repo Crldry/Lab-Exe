@@ -1,0 +1,15 @@
+img{
+    max-width: 100%;
+
+
+}
+.gallery{
+background-color: #ffb100;
+padding: 80px ;
+}
+
+.gallery img{
+    background-color: antiquewhite;
+    padding: 15px;
+    width: 100%;
+}
